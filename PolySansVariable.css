@@ -1,0 +1,155 @@
+/* PolySans Regular Variants */
+@font-face {
+    font-family: 'PolySans';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansGX.woff2') format('woff2');
+    font-weight: 400; /* Regular */
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PolySans';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansGX.woff2') format('woff2');
+    font-weight: 300; /* Slim */
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PolySans';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansGX.woff2') format('woff2');
+    font-weight: 500; /* Median */
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PolySans';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansGX.woff2') format('woff2');
+    font-weight: 600; /* Bulky */
+    font-style: normal;
+}
+
+/* PolySans Mono Variants */
+@font-face {
+    font-family: 'PolySans Mono';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansGX.woff2') format('woff2');
+    font-weight: 300; /* Slim Mono */
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PolySans Mono';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansGX.woff2') format('woff2');
+    font-weight: 400; /* Neutral Mono */
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PolySans Mono';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansGX.woff2') format('woff2');
+    font-weight: 500; /* Median Mono */
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PolySans Mono';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansGX.woff2') format('woff2');
+    font-weight: 600; /* Bulky Mono */
+    font-style: normal;
+}
+
+/* PolySans Wide Variants */
+@font-face {
+    font-family: 'PolySans Wide';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansGX.woff2') format('woff2');
+    font-weight: 300; /* Slim Wide */
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PolySans Wide';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansGX.woff2') format('woff2');
+    font-weight: 400; /* Neutral Wide */
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PolySans Wide';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansGX.woff2') format('woff2');
+    font-weight: 500; /* Median Wide */
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PolySans Wide';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansGX.woff2') format('woff2');
+    font-weight: 600; /* Bulky Wide */
+    font-style: normal;
+}
+
+/* PolySans Italic Variants */
+@font-face {
+    font-family: 'PolySans Italic';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansItalicGX.woff2') format('woff2');
+    font-weight: 400; /* Regular Italic */
+    font-style: italic;
+}
+@font-face {
+    font-family: 'PolySans Italic';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansItalicGX.woff2') format('woff2');
+    font-weight: 300; /* Slim Italic */
+    font-style: italic;
+}
+@font-face {
+    font-family: 'PolySans Italic';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansItalicGX.woff2') format('woff2');
+    font-weight: 500; /* Median Italic */
+    font-style: italic;
+}
+@font-face {
+    font-family: 'PolySans Italic';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansItalicGX.woff2') format('woff2');
+    font-weight: 600; /* Bulky Italic */
+    font-style: italic;
+}
+
+/* PolySans Mono Italic Variants */
+@font-face {
+    font-family: 'PolySans Mono Italic';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansItalicGX.woff2') format('woff2');
+    font-weight: 300; /* Slim Mono Italic */
+    font-style: italic;
+}
+@font-face {
+    font-family: 'PolySans Mono Italic';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansItalicGX.woff2') format('woff2');
+    font-weight: 400; /* Neutral Mono Italic */
+    font-style: italic;
+}
+@font-face {
+    font-family: 'PolySans Mono Italic';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansItalicGX.woff2') format('woff2');
+    font-weight: 500; /* Median Mono Italic */
+    font-style: italic;
+}
+@font-face {
+    font-family: 'PolySans Mono Italic';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansItalicGX.woff2') format('woff2');
+    font-weight: 600; /* Bulky Mono Italic */
+    font-style: italic;
+}
+
+/* PolySans Wide Italic Variants */
+@font-face {
+    font-family: 'PolySans Wide Italic';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansItalicGX.woff2') format('woff2');
+    font-weight: 300; /* Slim Wide Italic */
+    font-style: italic;
+}
+@font-face {
+    font-family: 'PolySans Wide Italic';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansItalicGX.woff2') format('woff2');
+    font-weight: 400; /* Neutral Wide Italic */
+    font-style: italic;
+}
+@font-face {
+    font-family: 'PolySans Wide Italic';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansItalicGX.woff2') format('woff2');
+    font-weight: 500; /* Median Wide Italic */
+    font-style: italic;
+}
+@font-face {
+    font-family: 'PolySans Wide Italic';
+    src: url('https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansItalicGX.woff2') format('woff2');
+    font-weight: 600; /* Bulky Wide Italic */
+    font-style: italic;
+}
