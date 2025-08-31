@@ -1,0 +1,53 @@
+/* PolySans Variable */
+@font-face {
+  font-family: 'PolySans';
+  src: url('https://cors.zamkara.tech/?https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansGX.woff2') format('woff2');
+  font-weight: 300 600; /* Slim–Bulky */
+  font-style: normal;
+  font-display: swap;
+}
+
+/* PolySans Italic Variable */
+@font-face {
+  font-family: 'PolySans Italic';
+  src: url('https://cors.zamkara.tech/?https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansItalicGX.woff2') format('woff2');
+  font-weight: 300 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* PolySans Mono Variable */
+@font-face {
+  font-family: 'PolySans Mono';
+  src: url('https://cors.zamkara.tech/?https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansGX.woff2') format('woff2');
+  font-weight: 300 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* PolySans Mono Italic Variable */
+@font-face {
+  font-family: 'PolySans Mono Italic';
+  src: url('https://cors.zamkara.tech/?https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansItalicGX.woff2') format('woff2');
+  font-weight: 300 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* PolySans Wide Variable */
+@font-face {
+  font-family: 'PolySans Wide';
+  src: url('https://cors.zamkara.tech/?https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansGX.woff2') format('woff2');
+  font-weight: 300 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* PolySans Wide Italic Variable */
+@font-face {
+  font-family: 'PolySans Wide Italic';
+  src: url('https://cors.zamkara.tech/?https://github.com/almaheras/blackhole/raw/refs/heads/main/PolySansItalicGX.woff2') format('woff2');
+  font-weight: 300 600;
+  font-style: italic;
+  font-display: swap;
+}
